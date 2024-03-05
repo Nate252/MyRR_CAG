@@ -3,3 +3,7 @@ readme.txt
 *.~*
 
 build/
+
+*.txt
+file2.*
+*.pdf
